@@ -1,0 +1,120 @@
+body {
+
+    margin: 0;
+
+    font-family: Arial, sans-serif;
+
+    background:#711cad; /* Background color blend */
+
+    color: #fff; /* Text color */
+
+}
+
+
+
+header {
+
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background for header */
+
+    color: #fff;
+
+    text-align: center;
+
+    padding: 20px 0;
+
+}
+
+
+
+main {
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+}
+
+
+
+section {
+
+    width: 100%;
+
+    padding: 80px 20px; /* Increase padding for spacing between sections */
+
+    text-align: center;
+
+}
+
+
+
+section img {
+
+    width: 200px;
+
+    border-radius: 50%;
+
+    margin-bottom: 20px; /* Add some space below the image */
+
+}
+
+
+
+h2 {
+
+    margin-bottom: 20px; /* Add some space below the heading */
+
+}
+
+
+
+p {
+
+    margin-bottom: 20px; /* Add some space below the paragraph */
+
+}
+
+
+
+button.video-btn {
+
+    background-color: teal;
+
+    color: #fff;
+
+    border: none;
+
+    border-radius: 25px;
+
+    padding: 10px 20px;
+
+    cursor: pointer;
+
+}
+
+
+
+button.video-btn:hover {
+
+    background-color: darkcyan;
+
+}
+
+
+
+footer {
+
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background for footer */
+
+    color: #fff;
+
+    text-align: center;
+
+    padding: 10px 0;
+
+    width: 100%;
+
+}
+
